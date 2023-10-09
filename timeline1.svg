@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name=" Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1008.3 30.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e4598f;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="504.15" cy="15.35" r="15.35" transform="translate(384.48 505.33) rotate(-78.02)"/>
+  <path class="cls-1" d="M1000.85,17.47H7.45c-4.11,0-7.45-.95-7.45-2.12s3.34-2.12,7.45-2.12H1000.85c4.12,0,7.45,.95,7.45,2.12s-3.34,2.12-7.45,2.12Z"/>
+</svg>
